@@ -1,2 +1,3 @@
-# Regression Discontinuity Design and Differece in Differences
-A self-implementation of various types of in-built or package-specific regression functions in R.
+# Regression Discontinuity Design and Differece-in-Differences
+
+A computational conceptualization of Regression Discontinuity Designs (RDD) and Difference-in-Differences (DID) methodologies to derive causal estimates and rigorously test their underlying assumptions.
